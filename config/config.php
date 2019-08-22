@@ -12,7 +12,7 @@ return [
         'charset' => 'utf8',
     ],
     'default' => [
-        'controller' => 'admin',
+        'controller' => 'Admin',
         'action' => 'base'
     ],
     'cookie_time' => time() + 86400 * 7
