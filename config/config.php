@@ -13,7 +13,7 @@ return [
     ],
     'default' => [
         'controller' => 'admin',
-        'action' => 'index'
+        'action' => 'base'
     ],
     'cookie_time' => time() + 86400 * 7
 ];
